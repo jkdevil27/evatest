@@ -18,7 +18,7 @@ BOT_TOKEN = '5044106477:AAGbWumdCtFXZY1BIijpQ09da7fuWfoQsog'
 
 # Bot settings
 CACHE_TIME = 300
-USE_CAPTION_FILTER = True
+USE_CAPTION_FILTER = false
 PICS = 'https://graph.org/file/f67972b9559dccda5ad7a.png'
 
 # Admins, Channels & Users
@@ -33,7 +33,7 @@ AUTH_GROUPS = None
 
 # MongoDB information
 DATABASE_URI = "mongodb+srv://jkdevil27:jkdevil27@cluster0.k1qg9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
-DATABASE_NAME = "evamaria
+DATABASE_NAME = "evamaria"
 COLLECTION_NAME = 'Telegram_files'
 
 # Others
