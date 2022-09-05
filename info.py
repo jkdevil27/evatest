@@ -32,7 +32,7 @@ AUTH_CHANNEL = None
 AUTH_GROUPS = None
 
 # MongoDB information
-DATABASE_URI = "mongodb+srv://jayesh:jayesh@cluster0.01m6t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://jknew:jknew@cluster0.dwdtysw.mongodb.net/?retryWrites=true&w=majority"
 DATABASE_NAME = "evamaria"
 COLLECTION_NAME = 'Telegram_files'
 
