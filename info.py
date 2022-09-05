@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = 'Media_search'
 API_ID = 18365683
 API_HASH = 'a37eee55e8296e47a8dcb4e6b200f47e'
-BOT_TOKEN = '5044106477:AAGbWumdCtFXZY1BIijpQ09da7fuWfoQsog'
+BOT_TOKEN = '1926197654:AAFpeJTnxPzXgtFIk6kzAi3WF7l1XXzqfPs'
 
 # Bot settings
 CACHE_TIME = 300
@@ -32,7 +32,7 @@ AUTH_CHANNEL = None
 AUTH_GROUPS = None
 
 # MongoDB information
-DATABASE_URI = "mongodb+srv://jkdevil27:jkdevil27@cluster0.k1qg9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://jayesh:jayesh@cluster0.01m6t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 DATABASE_NAME = "evamaria"
 COLLECTION_NAME = 'Telegram_files'
 
