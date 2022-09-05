@@ -19,7 +19,7 @@ BOT_TOKEN = '5044106477:AAGbWumdCtFXZY1BIijpQ09da7fuWfoQsog'
 # Bot settings
 CACHE_TIME = 300
 USE_CAPTION_FILTER = True
-PICS = 'https://graph.org/file/f67972b9559dccda5ad7a.png'
+PICS = ''
 
 # Admins, Channels & Users
 ADMINS = [1840397492]
